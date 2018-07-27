@@ -1,0 +1,2 @@
+# immutableclass
+Immutable class
